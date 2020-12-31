@@ -1,0 +1,26 @@
+! Title: Smart-TV Blocklist youtube for AdGuard Home
+! Version: 31.12.2020
+
+
+fonts.gstatic.com
+ajax.googleapis.com
+fonts.googleapis.com
+static.doubleclick.net
+googleads.g.doubleclick.net
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+i.ytimg.com
+yt3.ggpht.com
+www.gstatic.com
+clients1.google.com
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
+r4---sn-n8v7znly.googlevideo.com
+r9---sn-n8v7znz7.googlevideo.com
+r16---sn-n8v7znlk.googlevideo.com
+r2---sn-n8v7znsk.googlevideo.com
+r3---sn-n8v7kne7.googlevideo.com
+r3---sn-5uaeznde.googlevideo.com
+r12---sn-n8v7kn7l.googlevideo.com
+r1---sn-n8v7knee.googlevideo.com
+r8---sn-n8v7knel.googlevideo.com
